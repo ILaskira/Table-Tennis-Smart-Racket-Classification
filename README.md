@@ -56,3 +56,5 @@
 ## 🏆 比賽成果
 
 本專案最終在眾多隊伍中表現優異，於公開排行榜中名列**前 5%**，顯示我們的方法在處理高維時間序列資料與類別不平衡問題上具有良好的穩健性與泛化能力。
+
+[參賽證明](https://github.com/ILaskira/Table-Tennis-Smart-Racket-Classification/blob/main/%E6%A1%8C%E7%90%83%E7%AB%B6%E8%B3%BD%E5%8F%83%E8%B3%BD%E8%AD%89%E6%98%8E.pdf)  
